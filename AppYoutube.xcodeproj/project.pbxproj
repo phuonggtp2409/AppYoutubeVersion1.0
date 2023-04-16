@@ -13,6 +13,7 @@
 		D3FCE86A29EC0B0F00A357CA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3FCE86829EC0B0F00A357CA /* Main.storyboard */; };
 		D3FCE86C29EC0B1200A357CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D3FCE86B29EC0B1200A357CA /* Assets.xcassets */; };
 		D3FCE86F29EC0B1200A357CA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3FCE86D29EC0B1200A357CA /* LaunchScreen.storyboard */; };
+		D3FCE87729EC0C3800A357CA /* HomeYoutubeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3FCE87629EC0C3800A357CA /* HomeYoutubeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D3FCE86B29EC0B1200A357CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D3FCE86E29EC0B1200A357CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D3FCE87029EC0B1200A357CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D3FCE87629EC0C3800A357CA /* HomeYoutubeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeYoutubeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				D3FCE86B29EC0B1200A357CA /* Assets.xcassets */,
 				D3FCE86D29EC0B1200A357CA /* LaunchScreen.storyboard */,
 				D3FCE87029EC0B1200A357CA /* Info.plist */,
+				D3FCE87629EC0C3800A357CA /* HomeYoutubeViewController.swift */,
 			);
 			path = AppYoutube;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				D3FCE86729EC0B0F00A357CA /* ViewController.swift in Sources */,
 				D3FCE86329EC0B0F00A357CA /* AppDelegate.swift in Sources */,
 				D3FCE86529EC0B0F00A357CA /* SceneDelegate.swift in Sources */,
+				D3FCE87729EC0C3800A357CA /* HomeYoutubeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
